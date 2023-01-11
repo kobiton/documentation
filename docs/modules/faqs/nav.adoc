@@ -1,0 +1,2 @@
+* xref:faqs:index.adoc[]
+** xref:faq 1.adoc[]
